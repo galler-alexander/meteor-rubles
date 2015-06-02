@@ -16,12 +16,12 @@ Npm.depends({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
-  api.addFiles('rubles.js');
+  api.addFiles('rubles.js', 'server');
   api.export("rubles");
 });
 
 Package.onTest(function(api) {
   api.use('tinytest');
   api.use('ag2s:rubles');
-  api.addFiles('rubles-tests.js');
+  api.addFiles('rubles-tests.js', 'server');
 });
