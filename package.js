@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ag2s:rubles',
-  version: '0.1.5',
+  version: '0.1.6',
   // Brief, one-line summary of the package.
   summary: 'Write in russian words the amount in rubles',
   // URL to the Git repository containing the source code for this package.
