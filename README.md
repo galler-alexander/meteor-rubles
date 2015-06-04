@@ -1,6 +1,6 @@
 # Write in russian words the amount in rubles|Сумма прописью
 
-This wrapper uses rubles NPM module from http://meritt.github.io/rubles/.
+This wrapper uses  NPM module rubles from http://meritt.github.io/rubles/.
 
 Эта обертка использует NPM модуль rubles из http://meritt.github.io/rubles/.
 

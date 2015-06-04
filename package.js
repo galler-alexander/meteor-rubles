@@ -2,7 +2,7 @@ Package.describe({
   name: 'ag2s:rubles',
   version: '0.1.6',
   // Brief, one-line summary of the package.
-  summary: 'Write in russian words the amount in rubles',
+  summary: 'Write in russian words the amount in rubles (A Wrapper for NPM module rubles)',
   // URL to the Git repository containing the source code for this package.
   git: 'https://github.com/galler-alexander/meteor-rubles',
   // By default, Meteor will default to using README.md for documentation.
